@@ -1,5 +1,5 @@
-print("Installing requirements...")
-!pip3 install -r requirements.txt
+#print("Installing requirements...")
+#!pip3 install -r requirements.txt
 
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
